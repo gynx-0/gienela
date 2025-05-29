@@ -246,7 +246,7 @@ body.nav-active {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--white);
+  background-color: var(#FFB6C1);
   width: 100%;
   padding-block: 20px;
   box-shadow: var(--shadow-1);
